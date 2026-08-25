@@ -1,0 +1,18 @@
+name: shasp
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip>=22
+  - pytorch>=1.13
+  - torchvision>=0.14
+  - numpy>=1.21,<2
+  - pillow>=9
+  - scikit-image>=0.19
+  - pip:
+      - dominate>=2.6
+      - clean-fid>=0.1.35
+      - visdom>=0.2.4
+      - wandb>=0.15

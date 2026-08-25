@@ -1,0 +1,6 @@
+torch>=1.13,<3
+torchvision>=0.14,<1
+numpy>=1.21,<2
+Pillow>=9.0
+dominate>=2.6
+scikit-image>=0.19

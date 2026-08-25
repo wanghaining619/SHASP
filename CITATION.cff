@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use SHASP in your research, please cite the ECCV paper."
+title: "SHASP: Shared-Specific Representations for Cross-Spectral Image Generation"
+type: software
+license: BSD-3-Clause
+authors:
+  - family-names: Wang
+    given-names: Haining
+  - family-names: Li
+    given-names: Na
+  - family-names: Zhao
+    given-names: Huijie
+  - family-names: Da
+    given-names: Yifan
+  - family-names: Wen
+    given-names: Yan
+  - family-names: Su
+    given-names: Yi
+  - family-names: Fang
+    given-names: Yuqiang
+preferred-citation:
+  type: conference-paper
+  title: "Learning Shared-Specific Representations for Cross-Spectral Image Generation"
+  authors:
+    - family-names: Wang
+      given-names: Haining
+    - family-names: Li
+      given-names: Na
+    - family-names: Zhao
+      given-names: Huijie
+    - family-names: Da
+      given-names: Yifan
+    - family-names: Wen
+      given-names: Yan
+    - family-names: Su
+      given-names: Yi
+    - family-names: Fang
+      given-names: Yuqiang
+  collection-title: "European Conference on Computer Vision (ECCV)"
+  year: 2026

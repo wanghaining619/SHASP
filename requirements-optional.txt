@@ -1,0 +1,5 @@
+# Optional experiment tracking, visualization, and distribution metrics.
+-r requirements.txt
+clean-fid>=0.1.35
+visdom>=0.2.4
+wandb>=0.15

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
+.env
+.env.*
+!.env.example
+
+# Experiment artifacts (large and/or machine-specific)
+/datasets/
+/checkpoints/
+/results/
+/wandb/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+events.out.tfevents.*
+*.log
+
+# Local manuscript/review material. Add only a public camera-ready paper.
+/ID-810.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
