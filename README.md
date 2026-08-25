@@ -24,12 +24,6 @@ conda activate shasp
 python -m pip install -r requirements.txt
 ```
 
-Optional FID/KID, Visdom, and Weights & Biases support can be installed with:
-
-```bash
-python -m pip install -r requirements-optional.txt
-```
-
 Before a long training run, verify the installation with:
 
 ```bash
