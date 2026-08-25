@@ -1,7 +1,7 @@
 # Learning Shared-Specific Representations for Cross-Spectral Image Generation
 
 Official implementation of **Learning Shared-Specific Representations for
-Cross-Spectral Image Generation** (ECCV 2026).
+Cross-Spectral Image Generation** (**ECCV 2026**).
 
 SHASP translates an ordinary RGB visible-light (VIS) image into an infrared
 (IR) image. Here, *cross-spectral* refers to the VIS and IR imaging modalities;
