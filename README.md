@@ -128,7 +128,10 @@ python scripts/evaluate_shasp.py \
   --generated_dir ./results/shasp_yourdataset/test_latest/images/fake_B
 ```
 
-Add `--distribution_metrics` to also compute FID and KID with `clean-fid`.
+Other indicators such as FID, KID, AP, etc. have not been placed in this repository.
+
+## Poster
+[6260_wang_1397×991mm.pdf](https://github.com/user-attachments/files/31427328/6260_wang_1397x991mm.pdf)
 
 ## Citation
 
